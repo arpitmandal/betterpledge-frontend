@@ -1,0 +1,28 @@
+footer{
+   background-color: #172337;
+   font-size: 14px;
+   text-align: left;
+   text-decoration: none;
+    color: white;
+    padding: 2rem;
+  }
+.border-right{
+  border-right: 1px solid #878787 !important;
+}
+p{
+  text-align: left
+  
+}  
+li {
+  list-style: none;
+  text-align: left;
+}
+
+.lead{
+  color: #878787;
+}
+  @media screen and (max-width: 600px) {
+    footer {
+      display: none;
+    }
+  }
